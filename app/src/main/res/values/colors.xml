@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tabledata">#000</color>
+    <color name="tableheadcolor">#000</color>
+    <color name="buttontextcolor">#000</color>
+
+
+    <color name="bluedeep">#048ABB</color>
+    <color name="bluelight">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#e71111</color>
+</resources>

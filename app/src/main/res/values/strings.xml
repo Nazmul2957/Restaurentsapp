@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Restaurentsapp</string>
+    <string name="subject">subject</string>
+    <string name="index">index</string>
+    <string name="signout">owner</string>
+    <string name="profile">file</string>
+    <string name="signin">user</string>
+    <string name="description">description</string>
+    <string name="Total">Total : </string>
+    <string name="Vat">Vat : </string>
+    <string name="payback">Payback : </string>
+    <string name="paid">Paid : </string>
+    <string name="item1">Item</string>
+
+    <string name="item2">Item</string>
+    <string name="item3">Item</string>
+    <string name="item4">Item</string>
+</resources>
